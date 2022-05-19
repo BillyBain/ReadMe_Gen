@@ -1,4 +1,4 @@
-
+!(./resourcesimgsMIT_logo.png)
 # tesing
 
 ## Table of Contents
