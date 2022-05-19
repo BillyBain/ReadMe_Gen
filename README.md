@@ -1,5 +1,5 @@
-![GPLv3_Logo](https://user-images.githubusercontent.com/100814286/169187075-73f0be8d-7775-42b2-87c2-034f7ff1fa08.png)
-# bbbbb
+![OpenBSD_Logo](https://user-images.githubusercontent.com/100814286/169187074-b580e742-dd0d-4ce0-90ad-915cfa65732d.png)
+# Readme gen
 
 ## Table of Contents
 - [Descrpition](#description)
@@ -11,19 +11,19 @@
 - [Questions](#questions)
 
 # Descrpition
-b
+This is used to make a quick professional README.md
 # License
-[GPL Wiki](https://en.wikipedia.org/wiki/GNU_General_Public_License#)
+[OpenBSD Wiki](https://en.wikipedia.org/wiki/OpenBSD#)
 # Installation
-bbb
+Please use 'npm i' to get proper dependencies.
 # Usage
-b
+As stated in description it is used to make a README.md
 # Contribution Guidelines
-b
+Billy Bain
 # Test Instructions
-b
+Once installed open terminal and run 'node index.js'
 # Questions
 If there are any other question feel free to contact me at:
-- My Git Hub: [b](https://github.com/b)
-- My email address: b
-- Other ways to contact me: b
+- My Git Hub: [BillyBain](https://github.com/BillyBain)
+- My email address: billybain@gmail.com
+- Other ways to contact me: https://www.linkedin.com/in/william-bain-a24627233/
