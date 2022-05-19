@@ -202,7 +202,7 @@ inquirer
         },
         {
             type: 'input',
-            message: 'Who contributed to the project?',
+            message: 'How can you contributed to this project?',
             name: 'contribute',
         },
         {
