@@ -1,4 +1,4 @@
-
+!(./resourcesimgsMIT_logo.png)
 # tesing
 
 ## Table of Contents
@@ -24,6 +24,6 @@ more
 time
 # Questions
 If there are any other question feel free to contact me at:
-- My Git Hub: BillyBain(https://github.com/BillyBain)
+- My Git Hub: [BillyBain](https://github.com/BillyBain)
 - My email address: letstry it
 - Other ways to contact me: nope
