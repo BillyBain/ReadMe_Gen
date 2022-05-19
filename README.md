@@ -1,4 +1,4 @@
-![MIT Logo](./resourcesimgsMIT_logo.png)
+![MIT Logo]([./resourcesimgsMIT_logo.png](https://en.wikipedia.org/wiki/GNU_General_Public_License#/media/File:GPLv3_Logo.svg))
 # tesing
 
 ## Table of Contents
