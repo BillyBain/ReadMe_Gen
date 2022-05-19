@@ -19,7 +19,7 @@ Please use 'npm i' to get proper dependencies.
 # Usage
 As stated in description it is used to make a README.md
 # Contribution Guidelines
-Billy Bain
+Anyone can edit this code!
 # Test Instructions
 Once installed open terminal and run 'node index.js'
 # Questions
